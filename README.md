@@ -1,1 +1,1 @@
-# Homework #5 JS
+# Homework #6 JS
